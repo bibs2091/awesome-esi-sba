@@ -26,6 +26,8 @@
 
 - [7anooTech](https://github.com/th3happybit/7anooTech) - Partial remote selling platform adapted to the Algerian market constraints.
 
+- [Anomaly detection system](https://github.com/bibs2091/Anomaly-detection-system) - A machine learning based network intrusion detection system (IDS)
+
 - [ESI-LINUX](https://github.com/youben11/ESI_Linux) - Linux distribution made for ESI-SBA students.
 
 - [Junior Makers Program](https://github.com/ossamaazzaz/JMP) - Network of scientific clubs specialized in the field of Electronics, Robotics, Programming and Computer Science dedicated to the next generation.
@@ -37,12 +39,13 @@
 
 ## Mini Projects
 
+- [Guess-My-Shape](https://github.com/bibs2091/Guess-my-shape) - Deep learning version of skribbl game (drawing and guessing).
+
 - [Messaging](https://github.com/youben11/messaging) - Messaging is a client/server app written in Python2.7 that allows multiple users to communicate over a shared channel.
 
 - [Rapid Lobby](https://github.com/philomath213/rapid_lobby) - Rapid Lobby is a client/server app written in Python3 that allows multiple users to communicate over a shared channel.
 
 - [Scheduling Algorithm Simulator](https://github.com/youben11/sched-algo) - Simulation of some scheduling algorithms used in Operating Systems.
-
 
 ## Extracurricular Projects
 
