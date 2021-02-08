@@ -26,7 +26,7 @@
 
 - [7anooTech](https://github.com/th3happybit/7anooTech) - Partial remote selling platform adapted to the Algerian market constraints.
 
-- [Anomaly detection system](https://github.com/bibs2091/Anomaly-detection-system) - A machine learning based network intrusion detection system (IDS)
+- [Anomaly detection system](https://github.com/bibs2091/Anomaly-detection-system) - A machine learning based network intrusion detection system (IDS).
 
 - [ESI-LINUX](https://github.com/youben11/ESI_Linux) - Linux distribution made for ESI-SBA students.
 
